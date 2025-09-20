@@ -32,4 +32,4 @@ Built with **HTML, CSS, and JavaScript**. Perfect for beginners or for demonstra
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/hello-world-app.git
+git clone https://github.com/Aafthabali08/helloworldapp.git
